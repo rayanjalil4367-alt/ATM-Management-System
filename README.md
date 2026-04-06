@@ -1,8 +1,4 @@
-companying .txt files, it’s clear this is a very detailed system. You didn't just make a simple calculator; you built a full File-Handling System with Admin and User roles.
 
-Here is a professional README.md description tailored specifically to the features found in your code.
-
-Markdown
 # 🏦 C++ ATM Management System
 ### Programming Fundamentals Project
 
