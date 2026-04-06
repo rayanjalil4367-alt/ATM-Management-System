@@ -1,0 +1,52 @@
+Account: 10001 | Deposit: 1 | New Balance: 10060
+Account: 10002 | Deposit: 5 | New Balance: 5005
+Account: 10001 | Deposit: 5 | New Balance: 10065
+Account: 10009 | Deposit: 5 | New Balance: 3705
+Account: 10001 | Deposit: 10 | New Balance: 10075
+Account: 10001 | Deposit: 12 | New Balance: 10087
+Account: 10001 | Withdraw: 10 | New Balance: 10077
+[TXN ID: 141] Sender Account: 10001 | Transferred: 10 | New Balance: 10067
+[TXN ID: 141] Receiver Account: 10010 | Received: 10 | New Balance: 9810
+Account: 10001 | Deposit: 67 | New Balance: 10134
+Account: 10001 | Withdraw: 134 | New Balance: 10000
+[TXN ID: 141] Sender Account: 10001 | Transferred: 10 | New Balance: 9990
+[TXN ID: 141] Receiver Account: 10003 | Received: 10 | New Balance: 4010
+[TXN ID: 141] Sender Account: 10002 | Transferred: 5 | New Balance: 5000
+[TXN ID: 141] Receiver Account: 10009 | Received: 5 | New Balance: 3710
+[TXN ID: 18567] Sender Account: 10006 | Transferred: 1000 | New Balance: 1000
+[TXN ID: 18567] Receiver Account: 10001 | Received: 1000 | New Balance: 10990
+[TXN ID: 141] Sender Account: 10001 | Transferred: 10 | New Balance: 10980
+[TXN ID: 141] Receiver Account: 10002 | Received: 10 | New Balance: 5010
+Account: 10001 | Pin changed successfully
+Account: 10001 | Withdraw: 80 | New Balance: 10900
+Account: 10001 | Deposit: 100 | New Balance: 11000
+[TXN ID: 141] Sender Account: 10001 | Transferred: 10 | New Balance: 10990
+[TXN ID: 141] Receiver Account: 10002 | Received: 10 | New Balance: 5020
+Account: 10001 | Pin changed successfully
+Account: 10001 | Pin changed successfully
+[TXN ID: 141] Sender Account: 10001 | Transferred: 10 | New Balance: 10980
+[TXN ID: 141] Receiver Account: 10002 | Received: 10 | New Balance: 5030
+Account: 10001 | Deposit: 100 | New Balance: 11080
+Account: 10001 | Deposit: 2000 | New Balance: 13080
+[TXN ID: 141] Sender Account: 10001 | Transferred: 2500 | New Balance: 10580
+[TXN ID: 141] Receiver Account: 10002 | Received: 2500 | New Balance: 7530
+[TXN ID: 141] Sender Account: 10001 | Transferred: 580 | New Balance: 10000
+[TXN ID: 141] Receiver Account: 10002 | Received: 580 | New Balance: 8110
+[TXN ID: 141] Sender Account: 10001 | Transferred: 1000 | New Balance: 9000
+[TXN ID: 141] Receiver Account: 10006 | Received: 1000 | New Balance: 1010
+Account: 10001 | Deposit: 10 | New Balance: 9010
+Account: 10006 | Pin changed successfully
+[TXN ID: 100] Sender Account: 10001 | Transferred: 1000 | New Balance: 8000
+[TXN ID: 100] Receiver Account: 10006 | Received: 1000 | New Balance: 2010
+Account: 10001 | Deposit: 100 | New Balance: 8100
+[TXN ID: 100] Sender Account: 10001 | Transferred: 90 | New Balance: 8010
+[TXN ID: 100] Receiver Account: 10006 | Received: 90 | New Balance: 2100
+[TXN ID: 101] Sender Account: 10001 | Transferred: 90 | New Balance: 7920
+[TXN ID: 101] Receiver Account: 10002 | Received: 90 | New Balance: 8200
+Account: 10001 | Deposit: 100 | New Balance: 8020
+Account: 10001 | Pin changed successfully
+Account: 10001 | Pin changed successfully
+Account: 10001 | Deposit: 100 | New Balance: 8120
+Account: 10001 | Withdraw: 200 | New Balance: 7920
+[TXN ID: 100] Sender Account: 10001 | Transferred: 2323 | New Balance: 5597
+[TXN ID: 100] Receiver Account: 10009 | Received: 2323 | New Balance: 12323

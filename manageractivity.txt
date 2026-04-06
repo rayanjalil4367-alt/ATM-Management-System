@@ -1,0 +1,28 @@
+Manager created new account: 10010 | Initial Balance: 2000
+Manager created new account: 10010 | Initial Balance: 1000
+Manager created new account: 10010 | Balance: 1000 | Status: A
+Manager created new account: 10006 | Balance: 10 | Status: A
+Manager created new account: 10007 | Balance: 900 | Status: D
+Manager closed account: 10005
+Manager deactivated account:10002
+Manager reopened account: 10007
+Manager searched account: 10002
+Manager viewed all accounts (sorted by balance - descending)
+Manager viewed all accounts (sorted by balance - descending)
+Manager unlocked account: 10001
+Manager unlocked account: 10001
+Manager unlocked account: 10001
+Manager unlocked account: 10001
+Manager created new account: 10008 | Balance: 1000 | Status: D
+Manager closed account: 10002
+Manager reopened account: 10002
+Manager searched account: 10006
+Manager searched account: 10008
+Manager viewed all accounts
+Manager created new account: 10009 | Balance: 10000 | Status: A
+Manager viewed all accounts
+Manager viewed all accounts
+Manager unlocked account: 10001
+Manager viewed all accounts
+Manager viewed all accounts
+Manager unlocked account: 10001
